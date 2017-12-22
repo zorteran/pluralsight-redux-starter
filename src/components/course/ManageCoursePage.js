@@ -16,7 +16,7 @@ class ManageCoursePage extends React.Component {
 }
 
 ManageCoursePage.PropTypes = {
-
+    
 };
  
 function mapStateToProps(state, ownProps){
